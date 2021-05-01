@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-zankowski/ "Connect on LinkedIn")
 
-Self-driven, passionate and committed software engineer specializing in market trading and asset management discipline. Flexible with languages, tools and everything that leads to good solution. Enjoying his life in the beautiful area of Zürich. From time to time I commit to open source projects. 
+Self-driven, passionate and committed software engineer specializing in market trading and asset management discipline. Flexible with languages, tools and everything that leads to good solution. Enjoying his life in the beautiful area of Zürich :switzerland:. From time to time I commit to open source :octocat: projects. 
 
 <!--
 **WojciechZankowski/WojciechZankowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
