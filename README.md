@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/WojciechZankowski/WojciechZankowski/main/assets/badge.jpg" align="right" height="150" />
+
 ### Hi there, it is me 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-zankowski/ "Connect on LinkedIn")
